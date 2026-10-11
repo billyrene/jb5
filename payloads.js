@@ -1,8 +1,8 @@
 /* generated for Relapse - payload menu */
 window.PAYLOAD_TILES = [
-    {"title": "etaHEN", "description": "AIO Homebrew enabler with etaHEN Toolbox, plugins, Kstuff, FTP and payload support. Beta 2.6", "name": "etaHEN.elf", "info": "etaHEN.elf - LightningMods", "key": "etahen"},
-    {"title": "onionHEN", "description": "Homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN. Version v0.0.13", "name": "OnionHEN.elf", "info": "OnionHEN.elf - aydencharles", "key": "onionhen"},
-    {"title": "ps5upload", "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app). Version v5.41.0", "name": "ps5upload_v5.41.0.elf", "info": "ps5upload_v5.41.0.elf - phantomptr", "key": "ps5upload"},
+    {"title": "Prospero Manager", "name": "ProsperoMgr.elf", "key": "etahen"},
+    {"title": "onionHEN", "name": "OnionHEN.elf", "key": "onionhen"},
+    {"title": "ps5upload", "name": "ps5upload_v5.41.0.elf", "key": "ps5upload"},
     {"title": "WebKit Autoloader Installer", "description": "Installs WebKit Autoloader on the PS5 homescreen. Version v0.5.2", "name": "WebKit-Autoloader-Installer_v0.5.2.elf", "info": "WebKit-Autoloader-Installer_v0.5.2.elf - itsPLK", "key": "webkit-autoloader-installer"},
     {"title": "ps5debug-NG", "description": "PS5 debugger payload with a userland TCP wire-protocol server. Version 1.3.2", "name": "ps5debug-NG_1.3.2.elf", "info": "ps5debug-NG_1.3.2.elf - Pharaoh2k", "key": "ps5debug-ng"},
     {"title": "zftpd", "description": "Zero-copy FTP/HTTP server. Version v1.6.0", "name": "zftpd_v1.6.0.elf", "info": "zftpd_v1.6.0.elf - seregonwar", "key": "zftpd"},
